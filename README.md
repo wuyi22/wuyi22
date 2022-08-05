@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wuyi22
 - 👀 I’m interested in Data Science
-- 🌱 I’m a Data Scientist
+- 🌱 I’m a Data Analyst
 - 💞️ I’m looking to collaborate on Data Analysis
 - 📫 Reach me through email: seunwuyi22@gmail.com, twitter: @wuyi32 or linkedin: linkedin.com/in/oluwaseun-adeniji-884bab128 
 
